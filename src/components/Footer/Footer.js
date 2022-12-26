@@ -6,11 +6,11 @@ import { FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, SocialContain
 
 const Footer = () => {
   return (
-    <FooterWrapper>
+    <FooterWrapper id="contact">
       <LinkList>
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
-          <LinkItem href='tel:111-111-1111'>111-111-1111</LinkItem>
+          <LinkItem href='tel:(+972)54-625-5880'>(+972)54-625-5880</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>E-Mail</LinkTitle>
@@ -18,10 +18,10 @@ const Footer = () => {
         </LinkColumn>
       </LinkList>
       <SocialContainer>
-        <SocialIcons href='/'>
+        <SocialIcons href='https://github.com/Bendako' target="_blank">
           <AiFillGithub size='3rem' />
         </SocialIcons>
-        <SocialIcons href='/'>
+        <SocialIcons href='https://www.linkedin.com/in/bendako/' target="_blank">
           <AiFillLinkedin size='3rem' />
         </SocialIcons> 
       </SocialContainer>
