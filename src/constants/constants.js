@@ -5,7 +5,7 @@ export const projects = [
     image: '/images/jobiapp-picure.png',
     tags: ['React ', 'Styled-Components ', ' ', 'Express ', 'MongoDB '],
     source: 'https://jobiaap-mern.onrender.com/',
-    visit: '/',
+    visit: 'https://jobiaap-mern.onrender.com/',
     id: 0,
   },
   {
