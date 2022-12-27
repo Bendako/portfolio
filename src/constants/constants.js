@@ -1,10 +1,10 @@
 export const projects = [
   {
     title: 'Project #1',
-    description: "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non.",
-    image: '/images/1.png',
-    tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: '/',
+    description: "Jobiapp is an end-to-end dashboard app that allows you to order and organize your job applications. the app helps you to track your job applications and analyze your last half year. the app can make your searching job journey efficient and clear.",
+    image: '/images/jobiapp-picure.png',
+    tags: ['React ', 'Styled-Components ', ' ', 'Express ', 'MongoDB '],
+    source: 'https://jobiaap-mern.onrender.com/',
     visit: '/',
     id: 0,
   },
